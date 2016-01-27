@@ -1,0 +1,29 @@
+{
+  "name": "jquery-corner",
+  "homepage": "http://jquery.malsup.com/corner/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:malsup/corner.git"
+  },
+  "main": "./jquery.corner.js",
+  "authors": [
+    "malsup"
+  ],
+  "description": "Form validation made easy",
+  "main": "dist/jquery.validate.js",
+  "keywords": [
+    "corner"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "demo",
+    "lib"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.3.2"
+  }
+}
