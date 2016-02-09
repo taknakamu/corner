@@ -9,8 +9,6 @@
   "authors": [
     "malsup"
   ],
-  "description": "Form validation made easy",
-  "main": "dist/jquery.validate.js",
   "keywords": [
     "corner"
   ],
